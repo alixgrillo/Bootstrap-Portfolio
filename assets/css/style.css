@@ -1,6 +1,7 @@
  /* the body should have a background image, set the font to Arial, and width to 960px (centered on page) */
 body{
     background-image: url("../background/background-brown-carpentry-326311.jpg");
+
     margin-bottom: 5%;
 }
 /* the font for h1 will be Great Vibes */
@@ -27,11 +28,13 @@ h2{
 }
 .navbar{
     background-image: url("../background/fresh_snow/fresh_snow.png");
+    
 }
 .container{
     font-family: 'Roboto', sans-serif; 
     /* background-color: #ffffff; */
     background-image: url("../background/fresh_snow/fresh_snow.png");
+    
 }
 .card-img-overlay{
     background-color: #4aaaa5;
@@ -55,8 +58,14 @@ footer{
     border-top-color: #4aaaa5;
     border-top-width: 3px;
     border-top-style: solid;
-
 }
+/* .fa-signature{
+    font-size: 16px;
+    color: blue;
+}
+.fa, .far, .fas {
+    font-family: "Font Awesome 5 Free";
+} */
 
 /* font-family: 'Pacifico', cursive;
 font-family: 'Roboto', sans-serif; */
